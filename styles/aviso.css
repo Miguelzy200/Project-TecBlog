@@ -1,0 +1,32 @@
+#warnbody {
+	display: inline-block;
+	color: black;
+	font-weight: bold;
+	width: 640px;
+	text-align: left;
+}
+
+#warn {
+	display: inline-block;
+	background-color: #ffffff;
+	padding: 25px 25px;
+	margin-top: 7.5px;
+	margin-bottom: 7.5px;
+	margin-left: 16%;
+	border: 1px solid #ffffff;
+	border-radius: 25px;
+	width: 640px;
+	text-align: center;
+}
+
+#warntitle {
+	color: #ffffff;
+	background-color: #e34439;
+	padding: 10px 0px;
+	border-radius: 20px;
+}
+
+a {
+	text-decoration: none;
+	color: #fbc32c;
+}

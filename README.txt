@@ -1,0 +1,1 @@
+Leia a categoria aviso.

@@ -1,0 +1,39 @@
+
+#postbody {
+	display: inline-block;
+	color: black;
+	font-weight: bold;
+	width: 640px;
+}
+
+.post {
+	display: inline-block;
+	background-color: #ffffff;
+	margin-top: 7.5px;
+	margin-bottom: 7.5px;
+	padding: 25px 15px;
+	border: 1px solid #ffffff;
+	border-radius: 25px;
+}
+
+.posttitle {
+	color: #fbc32c;
+	margin: 0px;
+}
+
+.postdata {
+	font-size: 0.9em;
+	margin-top: 0px;
+	margin-bottom: 20px;
+}
+
+.postdescription {
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+
+.postlink {
+	text-decoration: none;
+	color: #fbc32c;
+}
+

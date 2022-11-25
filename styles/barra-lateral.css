@@ -1,0 +1,32 @@
+#boarders {
+	width: 250px;
+	float: right;
+}
+
+.board {
+	display: inline-block;
+	margin-top: 7.5px;
+	margin-bottom: 7.5px;
+	color: black;
+	background-color: #ffffff;
+	width: 230px;
+	padding: 10px;
+}
+
+.boardtitle {
+	padding: 5px;
+	font-size: 1.3em;
+	background-color: #dedade;
+}
+
+.boardtext {
+	margin-top: 5px;
+	margin-bottom: 5px;
+	font-weight: bold;
+}
+
+.boardlink {
+	text-decoration: none;
+	color: #fbc32c;
+	font-weight: bold;
+}
